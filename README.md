@@ -55,7 +55,7 @@ A user-friendly design is crucial for a booking system.  A well-designed interfa
 
 **Importance of Identifying Design Properties of a Mockup:**
 
-Identifying design properties in a mockup is essential for translating the design into functional code.  It helps developers understand the styling, layout, spacing, typography, and interactive elements, ensuring that the final implementation accurately reflects the intended design.  This attention to detail leads to a consistent and polished user interface.
+Identifying design properties in a mockup is essential for translating the design(https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f) into functional code.  It helps developers understand the styling, layout, spacing, typography, and interactive elements, ensuring that the final implementation accurately reflects the intended design.  This attention to detail leads to a consistent and polished user interface.
 
 ## Project Roles and Responsibilities.
 
